@@ -1,0 +1,43 @@
+{
+    "coins": 0,
+    "player1_coins": 0,
+    "player2_coins": 0,
+    "experience": 0,
+    "unlocked_cars": [
+        "basic",
+        "sport",
+        "racing"
+    ],
+    "unlocked_tracks": [
+        "city"
+    ],
+    "car_upgrades": {},
+    "owned_cars": [
+        "basic",
+        "sport",
+        "racing"
+    ],
+    "player1_car": "racing",
+    "player2_car": "basic",
+    "current_track": 0,
+    "player1_lives": 3,
+    "player2_lives": 3,
+    "player1_color": [
+        220,
+        50,
+        50
+    ],
+    "player2_color": [
+        220,
+        50,
+        50
+    ],
+    "player1_owned_colors": [
+        "azul",
+        "rojo"
+    ],
+    "player2_owned_colors": [
+        "azul",
+        "rojo"
+    ]
+}

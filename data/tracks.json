@@ -1,0 +1,23 @@
+{
+    "city": {
+        "name": "Ciudad",
+        "difficulty": 1,
+        "length": 1000,
+        "weather": ["clear", "rain"],
+        "unlock_level": 0
+    },
+    "highway": {
+        "name": "Autopista",
+        "difficulty": 2,
+        "length": 1500,
+        "weather": ["clear", "fog"],
+        "unlock_level": 3
+    },
+    "mountain": {
+        "name": "Montaña",
+        "difficulty": 3,
+        "length": 2000,
+        "weather": ["clear", "snow"],
+        "unlock_level": 7
+    }
+}

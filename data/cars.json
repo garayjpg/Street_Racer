@@ -1,0 +1,26 @@
+{
+    "basic": {
+        "name": "Sedán Básico",
+        "max_speed": 180,
+        "acceleration": 0.5,
+        "handling": 5,
+        "price": 0,
+        "unlock_level": 0
+    },
+    "sports": {
+        "name": "Deportivo",
+        "max_speed": 220,
+        "acceleration": 0.8,
+        "handling": 7,
+        "price": 500,
+        "unlock_level": 5
+    },
+    "racing": {
+        "name": "Auto de Carreras",
+        "max_speed": 260,
+        "acceleration": 1.2,
+        "handling": 9,
+        "price": 1500,
+        "unlock_level": 10
+    }
+}
